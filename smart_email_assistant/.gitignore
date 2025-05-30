@@ -1,3 +1,4 @@
+# .gitignore
 .env
 tasks.db
 __pycache__/
